@@ -32,12 +32,12 @@
 
 #ordered list
 
-1.harshi
-2.somu
+1. harshi
+2. somu
 
 #nested list
 
-1.friends
+1. friends
   -harshi
   -somu
   -trilu
