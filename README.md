@@ -21,3 +21,25 @@
 |  Name  |  Roll number |  Branch  |
 |---------|-----------|--------|
 |  harshi  | 504 | cse |
+
+
+#unordered list
+- harshitha
+- somu
+- trilu
+-satya
+- mouni
+
+#ordered list
+
+1.harshi
+2.somu
+
+#nested list
+
+1.friends
+  -harshi
+  -somu
+  -trilu
+  -satya
+  -mouni
