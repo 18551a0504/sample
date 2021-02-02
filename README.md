@@ -31,7 +31,6 @@
 - mouni
 
 # ordered list
-
-a.harshi
-b.somu
+    a.harshi
+    b.somu
 
