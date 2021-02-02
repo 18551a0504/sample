@@ -32,14 +32,6 @@
 
 #ordered list
 
-1. harshi
-2. somu
+a.harshi
+b.somu
 
-#nested list
-
-1. friends
-  -harshi
-  -somu
-  -trilu
-  -satya
-  -mouni
